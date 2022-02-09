@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hey Man !! 🌷 How Are You ? I am Rofiqul ALam Shehab
 
-<!--
-**shehab0911/shehab0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Do you want to know more about me then read below
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
