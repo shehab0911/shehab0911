@@ -1,6 +1,7 @@
 ### Hi there 👋, I am Rofiqul Alam Shehab
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-I’m An Enthusiastic And Passionate About AI
+#### I'm An Enthusiastic And Passionate About AI 
+![I'm An Enthusiastic And Passionate About AI ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 Currently, I Have Completed My BSC in Computer Science.Now, Working on AI, Machine Learning, Deep Learning, and Neural Networks, as well as Natural Language Processing. I'd like to work as a web developer as well
 
 Skills: C / C++ / JS / HTML / CSS/PYTHON/REACT/MYSQL/JAVA/DJANGO
