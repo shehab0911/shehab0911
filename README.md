@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Rofiqul Alam Shehab
 #### I'm An Enthusiastic And Passionate About AI 
-![I'm An Enthusiastic And Passionate About AI ]![git](https://user-images.githubusercontent.com/58635957/192137648-ed2aa836-e55b-4816-bab2-386e46f317da.jpg)
+![I'm An Enthusiastic And Passionate About AI ]
 
 Currently, I Have Completed My BSC in Computer Science.Now, Working on AI, Machine Learning, Deep Learning, and Neural Networks, as well as Natural Language Processing. I'd like to work as a web developer as well
 
