@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Rofiqul Alam Shehab
-#### I'm An Enthusiastic And Passionate About AI 
+####  Passionate About Data Science 
 ![I'm An Enthusiastic And Passionate About AI ] 
 
 Currently, I Have Completed My BSC in Computer Science.Now, Working on AI, Machine Learning, Deep Learning, and Neural Networks, as well as Natural Language Processing. I'd like to work as a web developer as well
