@@ -21,7 +21,7 @@ I'm a recent BSc Computer Science graduate with a deep passion for AI, Machine L
 - Generative AI.
 - LLM
 - Langchain, Langgraph
-- Voice to Tex Translation with different API.
+- Voice to Text Translation with different API.
 
 ### 📫 Connect With Me:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shehab0911)
