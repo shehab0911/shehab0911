@@ -18,9 +18,9 @@ I'm a recent BSc Computer Science graduate with a deep passion for AI, Machine L
 - Anything related to AI, ML, DL, and more!
 
 ### Learning On:
--Generative AI
--LLM (GPT,Groq,RAG,Llma,Langchain,Langgraph)
--Voice to Tex Translation with different API
+-Generative AI.
+-LLM (GPT,Groq,RAG,Llma,Langchain,Langgraph).
+-Voice to Tex Translation with different API.
 
 ### 📫 Connect With Me:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shehab0911)
