@@ -36,6 +36,8 @@ I'm a recent BSc Computer Science graduate with a deep passion for AI, Machine L
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shehab0911&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shehab0911&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shehab0911&theme=radical)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shehab0911&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shehab0911&theme=react-dark)
 
 ---
