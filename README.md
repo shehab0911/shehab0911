@@ -4,7 +4,7 @@
 
 ![AI Enthusiast](https://via.placeholder.com/800x200?text=I'm+Enthusiastic+About+AI+and+ML)
 
-I'm a recent BSc Computer Science graduate with a deep passion for AI, Machine Learning, Deep Learning, Neural Networks, and Natural Language Processing. I'm also interested in web development.
+I'm a recent BSc Computer Science graduate with a deep passion for AI, Machine Learning, Neural Networks, and Natural Language Processing. I'm also interested in web development.
 
 ### 🛠️ Skills:
 `C` | `C++` | `JavaScript` | `HTML` | `CSS` | `Python` | `React` | `MySQL` | `Java` | `Django`
