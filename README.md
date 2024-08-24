@@ -12,7 +12,7 @@ I'm a recent BSc Computer Science graduate with a deep passion for AI, Machine L
 ### 🔭 Currently Working On:
 - Natural Language Processing (NLP)
 - Deep Learning
-- Blockchain
+  
 
 ### 💬 Ask Me About:
 - Anything related to AI, ML, DL, and more!
