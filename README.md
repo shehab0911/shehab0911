@@ -7,7 +7,7 @@
 I'm a recent BSc Computer Science graduate with a deep passion for AI, Machine Learning, Neural Networks, and Natural Language Processing. I'm also interested in web development.
 
 ### 🛠️ Skills:
-`C` | `C++` | `JavaScript` | `HTML` | `CSS` | `Python` | `React` | `MySQL` | `Java` | `Django`
+`C++` | `JavaScript` | `HTML` | `CSS` | `Python` | `React` | `MySQL` | `Django`
 
 ### 🔭 Currently Working On:
 - Natural Language Processing (NLP)
