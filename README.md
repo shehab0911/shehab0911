@@ -20,7 +20,7 @@ I'm a recent BSc Computer Science graduate with a deep passion for AI, Machine L
 ### Learning On:
 - Generative AI.
 - LLM
-- Langchain, Langgraph
+- Langchain, Langgraph, LangSmith
 - Voice to Text Translation with different API.
 
 ### 📫 Connect With Me:
