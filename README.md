@@ -1,6 +1,6 @@
 ## Hi Folks 👋, I'm Rofiqul Alam Shehab
 
-### 🌟 Passionate About Data Science and AI
+### 🌟 Passionate About Data Science and Generative AI
 
 ![AI Enthusiast](https://via.placeholder.com/800x200?text=Currently+Working+As+A+Data+Scientist+At+CADS+AI)
 
