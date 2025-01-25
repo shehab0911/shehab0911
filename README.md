@@ -2,7 +2,7 @@
 
 ## 🌟 Passionate About **Data Science** and **Generative AI**
 
-
+✉️ **Contact**: shehabrafiq5087@gmail.com
 
 🎓 A recent **BSc Computer Science** graduate with a deep passion for:
 - 🤖 **AI & Machine Learning**
