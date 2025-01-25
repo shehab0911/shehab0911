@@ -4,6 +4,7 @@
 
 ![Data Scientist](https://via.placeholder.com/800x200?text=Currently+Working+As+A+Data+Scientist+At+CADS+AI)
 
+
 I'm a recent BSc Computer Science graduate with a deep passion for AI, Machine Learning, Neural Networks, and Natural Language Processing. I'm also interested in web development.
 
 ### 🛠️ Skills:
