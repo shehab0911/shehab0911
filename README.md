@@ -2,7 +2,7 @@
 
 ## 🌟 Passionate About **Data Science** and **Generative AI**
 
-![Data Scientist](https://via.placeholder.com/800x200?text=Currently+Working+As+A+Data+Scientist+At+CADS+AI)
+![Data Scientist](./header.png)
 
 🎓 A recent **BSc Computer Science** graduate with a deep passion for:
 - 🤖 **AI & Machine Learning**
