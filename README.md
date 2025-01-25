@@ -2,7 +2,7 @@
 
 ## 🌟 Passionate About **Data Science** and **Generative AI**
 
-![Data Scientist](https://via.placeholder.com/1200x300.png?text=Currently+Working+As+A+Data+Scientist+At+CADS+AI)
+
 
 🎓 A recent **BSc Computer Science** graduate with a deep passion for:
 - 🤖 **AI & Machine Learning**
@@ -67,15 +67,3 @@
 
 ---
 
-## 🎨 **Fun with Badges**
-
-[![Generative AI](https://img.shields.io/badge/Generative_AI-In_Progress-orange?style=flat-square)](#)  
-[![NLP](https://img.shields.io/badge/NLP-Expert-brightgreen?style=flat-square)](#)  
-[![Deep Learning](https://img.shields.io/badge/Deep_Learning-Enthusiast-blue?style=flat-square)](#)  
-
----
-
-## 🛠️ **Usage Notes**
-- Replace the placeholder `https://via.placeholder.com/...` image link with an actual banner if available.
-- Ensure the GitHub stats links work properly by visiting:  
-  [GitHub Readme Stats Generator](https://github.com/anuraghazra/github-readme-stats).
