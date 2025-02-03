@@ -34,7 +34,7 @@
 ---
 
 ## 🌱 **Learning On**
-- 🧠 **Generative AI** and **Large Language Models (LLMs)**  
+- 🧠 **Generative AI** ,**AI Agent**,and **Large Language Models (LLMs)**  
 - 🛠️ **Langchain**, **LangGraph**, and **LangSmith** tools  
 - 🗣️ Building advanced **Voice-to-Text Translation** solutions  
 
