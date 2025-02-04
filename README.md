@@ -8,7 +8,7 @@
 - 🤖 **AI & Machine Learning**
 - 🔍 **Natural Language Processing**
 - 🔗 **Neural Networks**
-- 🌐 **Web Development**
+- 🌐 **AI Agent**
 
 ---
 
